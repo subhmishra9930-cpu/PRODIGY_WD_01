@@ -20,5 +20,5 @@ HTML5, CSS3, Vanilla JavaScript
 
 # Author
 Subh Kumar Mishra — Web Development Intern @Prodigy InfoTech
-Github: https://github.com/subhmishra9930-cpu
-Linkedin: https://www.linkedin.com/in/subh-kumar-mishra-76a635374/
+<br>Github: https://github.com/subhmishra9930-cpu
+<br>Linkedin: https://www.linkedin.com/in/subh-kumar-mishra-76a635374/
